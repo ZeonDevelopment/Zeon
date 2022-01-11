@@ -1,12 +1,12 @@
 # Zeon Adddon
 An free addon for Meteor Client!
 
-# Module List:
-# -Commands:
+Module List:
+ -Commands:
   Count
   Armor
-# -Modules:
- # -Combat+(Zeon):
+ -Modules:
+  -Combat+(Zeon):
    AntiGhostBlock
    AutoCity+
    BedAuraPlus
@@ -16,12 +16,12 @@ An free addon for Meteor Client!
    RewriteCrystalAura
    InstaBreak
    Surround+
-# -Misc+(Zeon Misc+):
+ -Misc+(Zeon Misc+):
    AutoLogin
    DiscordRPC
    Nuker+
    ItemShrader
-# -Chat(Zeon Chat):
+ -Chat(Zeon Chat):
    ActionLogger
    ArmorNotifer
    BurrowAlert

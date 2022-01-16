@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "zeon-addon",
+  "version": "1",
+  "name": "ZEON Addon",
+  "description": "An addon for Meteor Client.",
+  "authors": [
+    "Dextro"
+  ],
+  "icon": "assets/zeon/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "meteor": [
+      "dextro.zeon.addon.Zeon"
+    ]
+  },
+  "mixins": [
+    "zeon.mixins.json"
+  ],
+  "custom": {
+    "meteor-client:color": "225,25,25"
+  },
+  "depends": {
+    "java": ">=16",
+    "minecraft": ">=1.17.1",
+    "meteor-client": ">=0.4.3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "dextro.zeon.addon.mixins",
+  "compatibilityLevel": "JAVA_16",
+  "client": [
+    "REMOVE_HUDS",
+    "PREFIX",
+    "PlayerMoveC2SPacketAccessor2"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

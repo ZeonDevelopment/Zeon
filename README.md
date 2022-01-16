@@ -4,14 +4,9 @@ An free addon for Meteor Client!
 Also join our discord so as not to miss updates: https://discord.gg/YTQGdEEMBm
 
 # Module List
-— Commands:
-  Count
-  Armor
-— Modules:
- — Combat+(Zeon):
-    AntiBedPlus
-    AutoCityPlus
-    BedAuraPlus
+ AntiBedPlus
+AutoCityPlus
+ BedAuraPlus
     BurrowBreaker
     CevBreaker
     CustomAutoTotem
